@@ -1,0 +1,5 @@
+{
+  "name": "Excel VBA Auto-Gen",
+  "description": "An AI-powered tool that generates robust VBA macros for Excel PDF automation based on your specific workbook structure.",
+  "requestFramePermissions": []
+}
